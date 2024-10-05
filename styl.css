@@ -10,7 +10,7 @@
    }
    #content {
     width: 80%; /* ширина контента */
-    background: #eee; /* фон */
+    background: #ff6666; /* фон */
     height: 300px; /* высота */
     float: right; /* всплытие вправо */
    }
