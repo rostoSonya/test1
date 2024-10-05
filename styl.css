@@ -6,7 +6,7 @@
    }
    #header {
     height: 100px; /* высота шапки */
-    background: #fc0; /* фоновый цвет */
+    background: #ff0000; /* фоновый цвет */
    }
    #content {
     width: 80%; /* ширина контента */
